@@ -9,10 +9,12 @@ Spiritual Bliss is a web application dedicated for helping people improve their 
 ## How to use SpiritualBliss
 To execute the program you need to first open this repository on visual studio code.
 
-1. Open new terminal
-2. Type in terminal "npm install"
-3. Run the seed file which will seed the database by typing "npm run seed" in the terminal
-4. Final step enter "npm start" which will then host our server on http://localhost:3000.
+1. Fork the Project / Download the source code as a zip file
+2. Navigate to the project directory
+3. Open new terminal
+4. Type in terminal "npm install"
+5. Run the seed file which will seed the database by typing "npm run seed" in the terminal
+6. Final step enter "npm start" which will then host our server on http://localhost:3000.
 
 ## Thank you for reading
 <!-- CONTRIBUTING -->
